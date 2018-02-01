@@ -2,7 +2,7 @@
 Full Stack Developer
 
 P. 1 (971) 971-713-1358   
-E. [talkto@dannielrolfe.com](mailto:talkto@dannielrolfe.com?subject=Hello Danniel)  
+Ex. [talkto@dannielrolfe.com](mailto:talkto@dannielrolfe.com?subject=Hello Danniel)  
 W. [dannielrolfe.com](http://www.dannielrolfe.com)
 
 ## The focus of my work is building web applications that meet business requirements while maintaining modern development best practices.
@@ -42,7 +42,7 @@ W. [dannielrolfe.com](http://www.dannielrolfe.com)
 
 > Consultant | Rolfe Consulting | Hillsboro, OR | Sep 2012 - Feb 2017
 * Worked with medium to large companies by building custom applications that met complex business requirements
-* consulting projects included working with clients such as Hewlett-Packard, Sitka Center for Art and Ecology, Risq Energy Drink, NWCPE, and Tinitron
+* Consulting projects included working with clients such as Hewlett-Packard, Sitka Center for Art and Ecology, Risq Energy Drink, NWCPE, and Tinitron
 * Employed a fulltime project coordinator and various contractors
 
 > Systems Information Manager | Tinitron Inc. | Hillsboro, OR | Jun 2014 - Feb 2015
