@@ -20,10 +20,20 @@ W. [dannielrolfe.com](http://www.dannielrolfe.com)
 
 
 ### Experience
+**Software Engineer III | The Standard | Portland, Or | May 2018 - Current**
+* Contributed to the development of several Angular 5 applications 
+* Provided code review to colleagues to improve code quality  
+* Collaborated with product owner and project manager to define scope of work via Agile methodologies 
+
+**UI Developer - Consultant  | Nike | Portland, Or | February 2018 - May 2018**
+* Contributed to the development of a React and Springboot application 
+* Provided code review to colleagues to improve code quality  
+* Collaborated with product owner and project manager to define scope of work via Agile methodologies 
+
 **Full Stack Developer - Consultant  | The Standard | Portland, Or | Aug 2017 - Current**
 * Contributed to the development of several Angular 5 applications 
 * Provided code review to colleagues to improve code quality  
-* Collaborated with product owner and project manager to define scope of work via Agile methodelogies 
+* Collaborated with product owner and project manager to define scope of work via Agile methodologies 
 
 **Front-end Developer - Consultant | 17Hats | Hillsboro (Remote), Or | Mar 2017 - June 2017**
 * Responsible for the development of various features in Javascript
@@ -55,6 +65,9 @@ Portland State University 2008-2012
 
 ### Projects
 Coming soon... 
+
+### Presentations
+Coming soon...
 
 
 
