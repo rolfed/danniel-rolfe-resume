@@ -2,8 +2,8 @@
 Senior Software Engineer
 
 P. 1 (971) 971-713-1358   
-Ex. talkto@dannielrolfe.com  
-W. http://www.dannielrolfe.com
+Ex. [talkto@dannielrolfe.com](mailto:talkto@dannielrolfe.com?subject=Hello Danniel)  
+W. [dannielrolfe.com](http://www.dannielrolfe.com)
 
 ## The focus of my work is building web applications that meet business requirements while maintaining modern development best practices.
 
