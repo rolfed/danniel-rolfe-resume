@@ -1,5 +1,5 @@
 ### Danniel Rolfe  
-Full Stack Developer
+Senior Software Engineer
 
 P. 1 (971) 971-713-1358   
 Ex. [talkto@dannielrolfe.com](mailto:talkto@dannielrolfe.com?subject=Hello Danniel)  
@@ -8,27 +8,27 @@ W. [dannielrolfe.com](http://www.dannielrolfe.com)
 ## The focus of my work is building web applications that meet business requirements while maintaining modern development best practices.
 
 ### Skills 
-* Full Stack Development 
-* Amazon Web Services 
-* Node.js, Spring Boot, Laravel 
-* Angular.js, Angular 5, React, Redux
-* HTML, CSS, Sass
-* MySQL, NoSQl
+* Angular 7
+* React 
+* Javascript / Typescript / Java
+* NodeJs
+* Spring Boot 
+* TDD
 * Docker
-* Jenkins 
 * Agile Development
-
 
 ### Experience
 **Software Engineer III | The Standard | Portland, Or | May 2018 - Current**
 * Contributed to the development of several Angular 5 applications 
 * Provided code review to colleagues to improve code quality  
 * Collaborated with product owner and project manager to define scope of work via Agile methodologies 
+* Mentored developers 
 
 **UI Developer - Consultant  | Nike | Portland, Or | February 2018 - May 2018**
 * Contributed to the development of a React and Springboot application 
 * Provided code review to colleagues to improve code quality  
-* Collaborated with product owner and project manager to define scope of work via Agile methodologies 
+* Collaborated with product owner and project manager to define scope of work via Agile methodologies
+* Mentored developers
 
 **Full Stack Developer - Consultant  | The Standard | Portland, Or | Aug 2017 - Current**
 * Contributed to the development of several Angular 5 applications 
@@ -36,7 +36,7 @@ W. [dannielrolfe.com](http://www.dannielrolfe.com)
 * Collaborated with product owner and project manager to define scope of work via Agile methodologies 
 
 **Front-end Developer - Consultant | 17Hats | Hillsboro (Remote), Or | Mar 2017 - June 2017**
-* Responsible for the development of various features in Javascript
+* Responsible for the development of various features in React 
 * Collaborated with a team of developers, project managers, product owners, and UX/UI designers in an Agile environment
 * Collaborate with the customer support team to help streamline bug fixing 
 
@@ -63,11 +63,8 @@ W. [dannielrolfe.com](http://www.dannielrolfe.com)
 Bachelor of Business Administration  
 Portland State University 2008-2012
 
-### Projects
-Coming soon... 
-
 ### Presentations
-Coming soon...
+* Reactive Progamming with Angular - Angular Meetup - August 16, 2018
 
 
 
